@@ -1,4 +1,4 @@
-# <div align="center"> Análisis de Sentimientos y Cluesterización con NLP </div>
+# <div align="center"> Análisis de Sentimientos y Clusterización con NLP </div>
 
 > En el notebook `prueba_tecnica.ipynb` se encuentra el proceso realizado para la obtención de un dataset limpio y procesado con datos de la Evaluación Docente del semestre 2024-1. 
 
@@ -25,7 +25,7 @@
 > Para realizar el análisis de sentimientos de los Comentarios que son objeto de evalucaión en el dataset, se utilizan paquetes especializados en el procesamieno de datos textuales como NLTK, spaCy y BERT.
 
 ## Clustering
-> Con el fin de encontrar agrupaciones en los datos se aplican tecnicas de vectorización como TFIDF para su posterior procesamiento del algoritmo de cluistering KMeans.
+> Con el fin de encontrar agrupaciones en los datos se aplican tecnicas de vectorización como TFIDF para su posterior procesamiento del algoritmo de clustering KMeans.
 
 ## Data final
 > Se procesan los tipos de datos para un uso óptimo en Power BI a la hora de crear un tablero de visualizaciones.
